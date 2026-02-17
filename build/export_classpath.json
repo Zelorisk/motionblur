@@ -1,0 +1,16 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "/Users/chris/Documents/projects/motionblur/build/classes/java/test",
+      "/Users/chris/Documents/projects/motionblur/build/resources/test",
+      "/Users/chris/Documents/projects/motionblur/bin/test"
+    ],
+    "main": [
+      "/Users/chris/Documents/projects/motionblur/build/classes/java/main",
+      "/Users/chris/Documents/projects/motionblur/build/resources/main",
+      "/Users/chris/Documents/projects/motionblur/build/devlibs/motionblur-1.0.0-dev.jar",
+      "/Users/chris/Documents/projects/motionblur/bin/main"
+    ]
+  }
+}
